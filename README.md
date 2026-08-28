@@ -122,7 +122,7 @@ Messages are newline-delimited **JSON** objects sent over a single TCP stream. T
 ```bash
 # 1. Clone the repository
 git clone https://github.com/FatimaAzazmah/Iot-Fire-Detection-Simulation.git
-cd iot-fire-detection-simulation
+cd Iot-Fire-Detection-Simulation
 
 # 2. (Recommended) create and activate a virtual environment
 python -m venv .venv
@@ -203,7 +203,7 @@ CAR2: STATUS=PARKED ENGINE_TEMP=25.10
 ## 📁 Project Structure
 
 ```
-iot-fire-detection-simulation/
+Iot-Fire-Detection-Simulation/
 ├── gateway_plus.py          # Edge gateway: simulates sensors, streams data, auto-reconnects
 ├── cloud_server_plus.py     # Cloud server: ingest, safety logic, live dashboard, CLI, CSV export
 ├── requirements.txt
