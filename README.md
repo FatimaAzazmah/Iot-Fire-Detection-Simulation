@@ -121,7 +121,7 @@ Messages are newline-delimited **JSON** objects sent over a single TCP stream. T
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/FatimaAzazmah/iot-fire-detection-simulation.git
+git clone https://github.com/FatimaAzazmah/Iot-Fire-Detection-Simulation.git
 cd iot-fire-detection-simulation
 
 # 2. (Recommended) create and activate a virtual environment
