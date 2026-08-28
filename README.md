@@ -29,7 +29,7 @@
 
 ## 🔎 Overview
 
-This project simulates a small **edge-to-cloud IoT network** for fire and safety monitoring. It was built for a **Wireless sensor networks and internet of things** course and demonstrates the core building blocks of a networked sensor system:
+This project simulates a small **edge-to-cloud IoT network** for fire and safety monitoring. It was built for a **Wireless Sensor Networks And Internet Of Things** course and demonstrates the core building blocks of a networked sensor system:
 
 - **Socket programming** — a custom application-layer protocol over TCP.
 - **Client–server architecture** — one cloud server accepting multiple gateways.
@@ -215,6 +215,6 @@ Iot-Fire-Detection-Simulation/
 
 ## 👥 Authors
 
-Created by **Fatima Azazmah** and **Aya Hammad** for a Wireless sensor networks and internet of things course project.
+Created by **Fatima Azazmah** and **Aya Hammad** for a Wireless Sensor Networks And Internet Of Things course project.
 
 If you find this useful, consider giving the repository a ⭐.
